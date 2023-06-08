@@ -13,7 +13,9 @@ git clone https://github.com/Code205/Base64_EncryptDecryptor.git
 
 Change your working directory to the cloned repository:
 
-```cd Base64_EncryptDecryptor```
+```
+cd Base64_EncryptDecryptor
+```
 
 Run the script using the following command:
 
