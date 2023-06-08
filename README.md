@@ -7,7 +7,9 @@ To use this script, follow the steps below:
 
 Clone this repository by running the following command in your terminal or command prompt:
 
-```git clone https://github.com/Code205/Base64_EncryptDecryptor.git```
+```
+git clone https://github.com/Code205/Base64_EncryptDecryptor.git
+```
 
 Change your working directory to the cloned repository:
 
@@ -15,7 +17,9 @@ Change your working directory to the cloned repository:
 
 Run the script using the following command:
 
-```python Base64_EncryptDecryptor.py```
+```
+python Base64_EncryptDecryptor.py
+```
 
 # Usage
 Once the script is running, it will present you with a menu where you can choose between encryption and decryption options. Simply follow the on-screen instructions to encrypt or decrypt your text.
