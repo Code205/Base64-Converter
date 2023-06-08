@@ -8,19 +8,19 @@ To use this script, follow the steps below:
 Clone this repository by running the following command in your terminal or command prompt:
 
 ```
-git clone https://github.com/Code205/Base64_EncryptDecryptor.git
+git clone https://github.com/Code205/Base64-Converter.git
 ```
 
 Change your working directory to the cloned repository:
 
 ```
-cd Base64_EncryptDecryptor
+cd Base64-Converter
 ```
 
 Run the script using the following command:
 
 ```
-python Base64_EncryptDecryptor.py
+python Convert_Base64.py
 ```
 
 # Usage
