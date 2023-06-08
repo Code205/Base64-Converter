@@ -1,4 +1,4 @@
-# Base64_EncryptDecryptor
+# Base64 Encrypt & Decryptor
 
 This Python script provides a simple command-line interface for encrypting and decrypting text using Base64 encoding. Base64 encoding is a common technique used to convert binary data into ASCII text format, which can be easily transmitted or stored as text.
 
