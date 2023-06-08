@@ -11,11 +11,11 @@ Clone this repository by running the following command in your terminal or comma
 
 Change your working directory to the cloned repository:
 
-```cd base64-encryption```
+```cd Base64_EncryptDecryptor```
 
 Run the script using the following command:
 
-```python base64_encryption.py```
+```python Base64_EncryptDecryptor.py```
 
 # Usage
 Once the script is running, it will present you with a menu where you can choose between encryption and decryption options. Simply follow the on-screen instructions to encrypt or decrypt your text.
