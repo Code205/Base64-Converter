@@ -20,7 +20,7 @@ cd Base64-Converter
 Run the script using the following command:
 
 ```
-python Convert_Base64.py
+python3 Convert_Base64.py
 ```
 
 # Usage
